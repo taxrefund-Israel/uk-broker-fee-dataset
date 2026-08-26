@@ -373,11 +373,11 @@
       "platform_fee_pct": "",
       "monthly_fee": 0,
       "plan_currency": "EUR",
-      "stock_commission_text": "Until 31 August 2026, on the European Investor Exchange and gettex — FREE Broker: €0.99 per trade, or €0 on purchases of €250 or more in PRIME ETFs (Amundi, iShares, Vanguard, Xtrackers); PRIME+ Broker (€4.99/mo): €0 per trade from €250, else €0.99. Scalable's published schedule then lists a separate 'Xetra and gettex (from 01.09.2026)' tier charging €1.99 per PRIME ETF trade on both plans; Xetra itself was cut to €1.99 with trading-venue fees waived. Check the live schedule before trading on or after 1 September 2026",
+      "stock_commission_text": "Price depends on the venue. European Investor Exchange (EIX) — FREE Broker: €0.99 per trade, or €0 on purchases of €250 or more in PRIME ETFs (Amundi, iShares, Vanguard, Xtrackers); PRIME+ Broker (€4.99/mo): €0 per trade from €250, else €0.99. gettex: €0.99 until 31 August 2026, then €1.99 flat from 1 September 2026 on both plans, with no free-trade threshold. Xetra: €1.99 flat from 1 September 2026, down from €3.99 plus 0.01% (min €1.50), with trading-venue fees waived. EIX is the cheapest route on both plans",
       "withdrawal_text": "Free to a linked bank account",
       "inactivity_text": "None",
-      "verified_at": "2026-08-17",
-      "source_url": "https://de.scalable.capital/en/trading-costs",
+      "verified_at": "2026-08-26",
+      "source_url": "https://de.scalable.capital/en/trading",
       "review_url": "https://feeswizard.com/review/scalable-capital/"
     },
     {
@@ -457,10 +457,10 @@
       "platform_fee_pct": "",
       "monthly_fee": "",
       "plan_currency": "GBP",
-      "stock_commission_text": "$0 on stocks, ETFs and options (regulatory fees on sells)",
+      "stock_commission_text": "$0 on stocks, ETFs and options (regulatory fees on sells). UK: 0% commission on UK, US and Hong Kong / China-A shares and ETFs",
       "withdrawal_text": "Free (ACH); wires $25 to send; account transfer out $75",
       "inactivity_text": "None",
-      "verified_at": "2026-08-17",
+      "verified_at": "2026-08-26",
       "source_url": "https://www.webull-uk.com/pricing",
       "review_url": "https://feeswizard.com/review/webull/"
     },
