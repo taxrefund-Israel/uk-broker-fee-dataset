@@ -24,8 +24,8 @@ fee schedule and carries a verification date and source URL.
 | `regions` | Where retail clients can open an account (`uk`, `eu`, `us`), pipe-separated |
 | `fx_fee_pct` | Currency-conversion fee, percent per converted trade |
 | `withdrawal_fee` | Flat fee per withdrawal, in `plan_currency` |
-| `inactivity_monthly` | Monthly dormancy charge, in `plan_currency` |
-| `platform_fee_pct` | Ongoing annual platform fee as a percent of holdings |
+| `inactivity_monthly` | Monthly dormancy charge, in `plan_currency`, normalised from quarterly/annual charges |
+| `platform_fee_pct` | Ongoing annual platform fee as a percent of holdings (first tier, where tiered) |
 | `monthly_fee` | Fixed monthly subscription, if any |
 | `*_text` | The human-readable fee wording, including conditions the numbers cannot capture |
 | `verified_at` | Date the figures were last checked against the source |
@@ -33,6 +33,13 @@ fee schedule and carries a verification date and source URL.
 
 ## Caveats
 
+- **Empty is not zero.** In the numeric fee columns, `0` means we confirmed the
+  platform levies no such charge; an empty cell means the fee is not modelled as a
+  number for that broker — typically a spread-priced CFD broker with no per-plan
+  pricing. Those brokers may still charge: always read the matching `*_text`
+  column before treating an empty cell as free. For example `inactivity_monthly`
+  is empty for Plus500, AvaTrade and Fortrade, all of which do charge dormancy fees
+  described in `inactivity_text`.
 - Percentage fees are currency-neutral; flat fees are in the plan's own currency.
 - CFD and spread-based brokers price through the spread, so their costs are **not**
   directly comparable with share-dealing commissions. Filter on `asset_type`.
