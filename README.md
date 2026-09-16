@@ -13,7 +13,7 @@ fee schedule and carries a verification date and source URL.
 | File | Rows | Description |
 |---|---|---|
 | `broker-fees.csv` / `.json` | 23 | One row per broker: headline fees, regulators, regions, verification date and source |
-| `fee-changes.csv` | 6 | Dated log of verified pricing changes (what changed, when, and the source) |
+| `fee-changes.csv` | 9 | Dated log of verified pricing changes (what changed, when, and the source) |
 
 ## Column dictionary (broker-fees)
 
@@ -49,7 +49,8 @@ fee schedule and carries a verification date and source URL.
 
 ## Licence & attribution
 
-Free to use, including commercially, with attribution:
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to use, including
+commercially, with attribution (the same licence as the GitHub and Kaggle mirrors):
 
 > Broker fee data from FeesWizard — https://feeswizard.com
 
