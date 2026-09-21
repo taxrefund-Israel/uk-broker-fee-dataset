@@ -19,7 +19,7 @@
       "stock_commission_text": "£5.00 per online share deal (£3.50 if you made 10+ share deals in the previous month); regular investing is free",
       "withdrawal_text": "Free to a linked UK bank account",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://www.ajbell.co.uk/isa/stocks-shares-isa/charges",
       "review_url": "https://feeswizard.com/review/aj-bell/"
     },
@@ -40,7 +40,7 @@
       "stock_commission_text": "No commission; cost is in the spread (from 0.9 pips on EUR/USD)",
       "withdrawal_text": "Free",
       "inactivity_text": "USD 50 a quarter (EUR 50 / GBP 50, by account currency) after three consecutive months of non-use, and every successive quarter, plus an annual administration fee of USD 100 / EUR 100 / GBP 100 after twelve consecutive months",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://www.avatrade.com/trading-info/our-fees-charges",
       "review_url": "https://feeswizard.com/review/avatrade/"
     },
@@ -51,7 +51,7 @@
       "regions": "uk|eu",
       "regulators": "FCA|CySEC|ASIC|SCB",
       "founded_year": 2016,
-      "min_deposit": 10,
+      "min_deposit": 20,
       "fx_fee_pct": "",
       "withdrawal_fee": "",
       "inactivity_monthly": "",
@@ -61,7 +61,7 @@
       "stock_commission_text": "No commission; cost is in the spread (from 0.6 pips on EUR/USD)",
       "withdrawal_text": "Free",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://capital.com/en-int/ways-to-trade/fees-and-charges",
       "review_url": "https://feeswizard.com/review/capital-com/"
     },
@@ -103,7 +103,7 @@
       "stock_commission_text": "$1–$2 per side on stock positions (charged on opening and on closing, varies by country of residence); ETFs 0%",
       "withdrawal_text": "$5 per withdrawal on USD accounts ($30 min); free on GBP/EUR accounts",
       "inactivity_text": "None (eToro removed the inactivity fee in 2026)",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://www.etoro.com/trading/fees/",
       "review_url": "https://feeswizard.com/review/etoro/"
     },
@@ -124,7 +124,7 @@
       "stock_commission_text": "£7.50 per online share, ETF or investment trust deal (£30.00 by phone); £1.50 for regular savings plan trades and dividend reinvestment; funds free",
       "withdrawal_text": "Free to a linked UK bank account",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://www.fidelity.co.uk/shares/fees-and-charges/",
       "review_url": "https://feeswizard.com/review/fidelity/"
     },
@@ -145,7 +145,7 @@
       "stock_commission_text": "No commission; cost is in the spread (EUR/USD ~2 pips)",
       "withdrawal_text": "Free (some payment methods may charge)",
       "inactivity_text": "USD 10 a month (charged in your account currency) after six consecutive months with no transactions — no deposits, withdrawals or trading activity, including opening a pending order",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://www.fortrade.com/faqs/fees-and-charges/",
       "review_url": "https://feeswizard.com/review/fortrade/"
     },
@@ -166,7 +166,7 @@
       "stock_commission_text": "£0 commission on all UK & US stocks, ETFs and investment trusts (all plans); mutual funds also dealt free with no holding fee since 22 January 2026 (all plans)",
       "withdrawal_text": "Free standard withdrawals; £5 for same-day withdrawal, which is included free on the Plus plan",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://freetrade.io/pricing",
       "review_url": "https://feeswizard.com/review/freetrade/"
     },
@@ -187,7 +187,7 @@
       "stock_commission_text": "£6.95 per online share deal (£3.95 if you dealt 20+ times in the previous month); £1.95 per online fund deal; free via monthly direct debit or dividend reinvestment",
       "withdrawal_text": "Free to a linked UK bank account",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://www.hl.co.uk/investment-services/isa/savings-interest-rates-and-charges",
       "review_url": "https://feeswizard.com/review/hargreaves-lansdown/"
     },
@@ -208,7 +208,7 @@
       "stock_commission_text": "UK shares 0.05% of trade value, minimum £3; European shares 0.05%, minimum €3; US shares from $0.005 per share, minimum $1 (Fixed pricing)",
       "withdrawal_text": "Two free withdrawal requests per calendar month; after that GBP 7.00 by bank transfer or GBP 1.00 by BACS/GIRO (EUR 8.00 / EUR 1.00; USD 10.00 / USD 1.00)",
       "inactivity_text": "None on the standard account (the inactivity fee was removed in 2021)",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://www.interactivebrokers.co.uk/en/pricing/commissions-stocks.php",
       "review_url": "https://feeswizard.com/review/interactive-brokers/"
     },
@@ -229,7 +229,7 @@
       "stock_commission_text": "£3.99 per UK or US share and ETF trade on Core and Plus (£2.99 on Premium); other international shares, including European exchanges, £9.99 on Core, £7.99 on Plus and £5.99 on Premium; funds £3.99 on Core, £1.49 on Plus, free on Premium",
       "withdrawal_text": "Free to a linked UK bank account (next-day GBP and EUR); £15 for a same-day GBP or EUR withdrawal",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://www.ii.co.uk/our-charges",
       "review_url": "https://feeswizard.com/review/interactive-investor/"
     },
@@ -250,7 +250,7 @@
       "stock_commission_text": "£0 dealing commission on all ETFs (DIY portfolios); no platform fee",
       "withdrawal_text": "Free — no withdrawal fee",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://investengine.com/costs/",
       "review_url": "https://feeswizard.com/review/investengine/"
     },
@@ -271,7 +271,7 @@
       "stock_commission_text": "UK personal accounts (GIA and ISA): no execution fee on UK, US and European stocks or ETFs. EU accounts: GBP 1 per order on UK stocks, EUR 1 per order on EUR-denominated stocks, 0.1% on other European stocks, and 0.10% (min $0.10, max $1) on US stocks. ETFs are execution-fee-free on both.",
       "withdrawal_text": "Free by local bank transfer. USD wire payments are charged (up to $8.50 UK, $6.11 EU).",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://lightyear.com/en-gb/pricing",
       "review_url": "https://feeswizard.com/review/lightyear/"
     },
@@ -292,7 +292,7 @@
       "stock_commission_text": "Razor: raw spreads plus a fixed commission on FX and Spot Gold (XAU/USD) only — GBP 2.25 per lot per side on a GBP account, USD 3.50 on a USD account, so GBP 4.50 / USD 7 round turn, charged in full when the position opens on MT4 and MT5; cTrader is USD 6 round turn on FX. Standard: no commission on FX, indices or commodities (the cost sits in the spread), but share CFDs cost from 0.1% per side",
       "withdrawal_text": "Free, except bank wire withdrawals to an international bank account, which are charged GBP 15",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://pepperstone.com/en-gb/trading/costs-and-fees",
       "review_url": "https://feeswizard.com/review/pepperstone/"
     },
@@ -313,7 +313,7 @@
       "stock_commission_text": "No commission, cost is in the spread",
       "withdrawal_text": "Free — Plus500 charges no deposit or withdrawal fees; your own bank or card issuer may charge on international transfers or unsupported-currency conversions",
       "inactivity_text": "Up to $10/month after 3 months without logging in",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://www.plus500.com/en-gb/help/feescharges",
       "review_url": "https://feeswizard.com/review/plus500/"
     },
@@ -334,7 +334,7 @@
       "stock_commission_text": "1 commission-free order a month on Standard (3 on Plus, 5 on Premium, 10 on Metal and Ultra); beyond the allowance 0.25% of the order amount, or 0.12% on Ultra, minimum GBP 0.01; the Stocks and Shares ISA shares the same allowance and rates",
       "withdrawal_text": "Free",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://help.revolut.com/help/wealth/stocks/trading-stocks/trading-fees/what-fees-will-i-be-charged-for-my-trading/",
       "review_url": "https://feeswizard.com/review/revolut/"
     },
@@ -352,10 +352,10 @@
       "platform_fee_pct": 0,
       "monthly_fee": "",
       "plan_currency": "GBP",
-      "stock_commission_text": "$0 / £0 commission on US stocks, ETFs and options (crypto in the US only)",
+      "stock_commission_text": "$0 / £0 commission on US stocks and ETFs; options are $0 commission in the US and $0.50 per contract (buys and sells) in the UK; crypto in the US only",
       "withdrawal_text": "Free (bank/ACH); instant withdrawal 1.75% (US); account transfer out $100",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://cdn.robinhood.com/assets/robinhood/legal/RHUK_Fee_Schedule.pdf",
       "review_url": "https://feeswizard.com/review/robinhood/"
     },
@@ -376,7 +376,7 @@
       "stock_commission_text": "Price depends on the venue. European Investor Exchange (EIX) — FREE Broker: €0.99 per trade, or €0 on purchases of €250 or more in PRIME ETFs (Amundi, iShares, Vanguard, Xtrackers); PRIME+ Broker (€4.99/mo): €0 per trade from €250, else €0.99. Xetra and gettex: €1.99 flat per order on both plans, PRIME ETFs included, with no free-trade threshold and trading-venue fees waived. EIX is the only venue where the €0.99 and free-above-€250 pricing still applies",
       "withdrawal_text": "Free to a linked bank account",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://de.scalable.capital/en/trading-costs",
       "review_url": "https://feeswizard.com/review/scalable-capital/"
     },
@@ -397,7 +397,7 @@
       "stock_commission_text": "€1 flat per trade (Best Price execution); €2 per order for Direct Price routing to a chosen exchange (Xetra, NYSE, etc., since July 2026)",
       "withdrawal_text": "Free to a linked bank account",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://support.traderepublic.com/en-de/784-Are-there-commissions-for-order-execution",
       "review_url": "https://feeswizard.com/review/trade-republic/"
     },
@@ -418,7 +418,7 @@
       "stock_commission_text": "0%",
       "withdrawal_text": "Free",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://helpcentre.trading212.com/hc/en-us/articles/11471996799517-What-are-the-fees-in-the-Invest-ISAs-and-SIPP",
       "review_url": "https://feeswizard.com/review/trading212/"
     },
@@ -439,7 +439,7 @@
       "stock_commission_text": "No dealing charge on Vanguard funds and ETFs at the scheduled daily trade; £7.50 for optional live 'quote and deal' ETF trades",
       "withdrawal_text": "Free to a linked UK bank account",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://www.vanguardinvestor.co.uk/what-we-offer/fees-explained",
       "review_url": "https://feeswizard.com/review/vanguard-uk/"
     },
@@ -460,7 +460,7 @@
       "stock_commission_text": "$0 on stocks, ETFs and options (regulatory fees on sells). UK: $0 commission on US and Hong Kong / China-A shares and ETFs, on both the free Go tier and Meridian. UK shares are the exception and are not commission-free - Webull markets them as \"50p minimum commission\", and new accounts get 90 days of commission-free UK trading before the standard rate applies. Webull does not publish the percentage above that 50p floor on its pricing page",
       "withdrawal_text": "Free (ACH); wires $25 to send; account transfer out $75",
       "inactivity_text": "None",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://www.webull-uk.com/pricing",
       "review_url": "https://feeswizard.com/review/webull/"
     },
@@ -481,7 +481,7 @@
       "stock_commission_text": "0% up to €100k monthly turnover, then 0.2% (min €10)",
       "withdrawal_text": "Free, with no minimum withdrawal amount - XTB charges no withdrawal commission, including on foreign-currency withdrawals",
       "inactivity_text": "EUR 10/month, only after 365 days with no trade AND no deposit in the previous 90 days. Not charged on ISA accounts, where open positions are held, or on a zero balance.",
-      "verified_at": "2026-09-16",
+      "verified_at": "2026-09-21",
       "source_url": "https://www.xtb.com/en/help-center/fees-and-payments-3/fees-and-commissions-at-xtb",
       "review_url": "https://feeswizard.com/review/xtb/"
     }
