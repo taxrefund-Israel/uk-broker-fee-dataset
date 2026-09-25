@@ -59,9 +59,9 @@
       "monthly_fee": "",
       "plan_currency": "",
       "stock_commission_text": "No commission; cost is in the spread (from 0.6 pips on EUR/USD)",
-      "withdrawal_text": "Free",
+      "withdrawal_text": "Free; minimum 20 GBP/EUR/USD by card, varying by payment method (no minimum via TrueLayer in the UK)",
       "inactivity_text": "None",
-      "verified_at": "2026-09-21",
+      "verified_at": "2026-09-26",
       "source_url": "https://capital.com/en-int/ways-to-trade/fees-and-charges",
       "review_url": "https://feeswizard.com/review/capital-com/"
     },
